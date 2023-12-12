@@ -1,0 +1,9 @@
+Debug/
+.vs/
+*.filters
+*.user
+*.obj
+*.tlog
+*.pdb
+*.idb
+*.ilk

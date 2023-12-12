@@ -28,5 +28,11 @@
     <ClInclude Include="spisok.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="container.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="price.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

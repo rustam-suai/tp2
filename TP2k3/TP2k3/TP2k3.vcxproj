@@ -145,6 +145,8 @@
     <Text Include="text.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="container.h" />
+    <ClInclude Include="price.h" />
     <ClInclude Include="spisok.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
